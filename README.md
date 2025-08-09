@@ -3,4 +3,4 @@
 
 Для развертывания проекта клонируйте репозиторий и откройте файл index.html
 
-![Yasenevo](assets/pioner.gif)
+![Pioner](assets/pioner.gif)
